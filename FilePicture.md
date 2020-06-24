@@ -1,6 +1,6 @@
 ---
 Hello: My name
-: Human 
+is: Human 
 
 ---
 
