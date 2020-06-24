@@ -1,6 +1,6 @@
 ---
 Hello: My name
-is: Human 
+is:  
 Dillinger: is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
 Import: a HTML file and watch it magically convert to Markdown
 
